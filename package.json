@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@azure/core-amqp": "^3.2.1",
+    "@types/node": "^18.11.18",
+    "dotenv": "^16.0.3"
+  }
+}

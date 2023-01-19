@@ -1,6 +1,10 @@
 # poc-amqp
 POC to showcase using @azure/core-amqp to communicate with both Azure SB and Active MQ using 1-0 protocol
 
+# To read
+- https://learn.microsoft.com/en-us/azure/service-bus-messaging/service-bus-amqp-overview
+- https://activemq.apache.org/amqp
+
 # Build
 1. Install dependencies via: `npm install`
 2. Compile the code using: `tsc index.js`
